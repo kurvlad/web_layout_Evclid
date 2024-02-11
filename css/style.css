@@ -352,6 +352,9 @@ body {
 
 
 /* hero */
+.hero-contain {
+  padding: 0;
+}
 .swiper-slide-1 {
   background-image: url('../image/hero-back-1024.jpg');
   /* z-index: -10; */
